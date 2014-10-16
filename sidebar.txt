@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cdy:home|Door43 (cdy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cdy|d43-cdy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cdy/archive/master.zip|d43-cdy.zip]]
+
+**Recent Changes**
+{{changes>ns = cdy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cdy|Ethnologue data]]
+
